@@ -1,5 +1,5 @@
 @sSteamCmdForcePlatformType windows
 login anonymous
 force_install_dir /conanexiles
-app_update 443030 validate
+app_update 443030 -beta default validate
 quit
